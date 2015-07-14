@@ -1,6 +1,6 @@
 ---
 applications:
-- name: producerSimple
+- name: producerSimpleCSO
   memory: 512M
   host: producerSimpleCSO
   path: target/producerSimple-0.0.2-SNAPSHOT.jar
